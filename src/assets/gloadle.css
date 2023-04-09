@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mr-5{
+    margin-right: 5px;
+}
+.ml-5{
+    margin-left: 5px;
+}
+.ml-10{
+    margin-left: 10px;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.wt-200{
+    width: 200px;
+}
+.hi-40{
+    height: 40px;
+}
+.ml-240{
+    margin-left: 240px;
+}
+
